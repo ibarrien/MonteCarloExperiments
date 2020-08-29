@@ -1,2 +1,1 @@
-# MonteCarloExperiments
-Version 1: Exercises from "Explorations in Monte Carlo Methods" by Shonkwiler and Mendivil
+Exercises from the book "EMCM" meant to illustrate MC concepts and hence amplify the RL experience.
